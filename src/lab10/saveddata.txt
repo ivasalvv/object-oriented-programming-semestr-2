@@ -1,0 +1,11 @@
+¬í sr 'ua.khpi.oop.saltykov15.CustomLinkedList        L listt Ljava/util/LinkedList;xpsr java.util.LinkedList)S]J`ˆ"  xpw   sr ua.khpi.oop.parakhin15.Citizen        L 	BirthDatet Ljava/util/Date;[ Crimerecordt [Ljava/util/Date;L LastFreeq ~ L 
+Lastinmateq ~ L Namet Ljava/lang/String;xpsr java.util.DatehjKYt  xpw   ø,òĞ€xpsq ~ 
+w  ,Í%ß xsq ~ 
+w   õßx€xt Alexsq ~ sq ~ 
+w   ®°Êó xpsq ~ 
+w  +¼€xsq ~ 
+w  +¼€xt Bradsq ~ sq ~ 
+w   ø"¦€xpsq ~ 
+w  
+üÔ€xsq ~ 
+w   ó@Ó xt Stevex

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="ua.khpi.oop.saltykov15.CustomLinkedList" id="CustomLinkedList0">
+  <void property="linkedList">
+   <void method="add">
+    <object class="ua.khpi.oop.saltykov15.Citizen">
+     <void property="birthDate">
+      <object class="java.util.Date">
+       <long>1065906000000</long>
+      </object>
+     </void>
+     <void property="lastFree">
+      <object class="java.util.Date">
+       <long>1291932000000</long>
+      </object>
+     </void>
+     <void property="lastinmate">
+      <object class="java.util.Date">
+       <long>1052600400000</long>
+      </object>
+     </void>
+     <void property="name">
+      <string>Alex</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ua.khpi.oop.saltykov15.Citizen">
+     <void property="birthDate">
+      <object class="java.util.Date">
+       <long>750290400000</long>
+      </object>
+     </void>
+     <void property="lastFree">
+      <object class="java.util.Date">
+       <long>1286830800000</long>
+      </object>
+     </void>
+     <void property="lastinmate">
+      <object class="java.util.Date">
+       <long>1286830800000</long>
+      </object>
+     </void>
+     <void property="name">
+      <string>Brad</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ua.khpi.oop.saltykov15.Citizen">
+     <void property="birthDate">
+      <object class="java.util.Date">
+       <long>1065733200000</long>
+      </object>
+     </void>
+     <void property="lastFree">
+      <object class="java.util.Date">
+       <long>1146690000000</long>
+      </object>
+     </void>
+     <void property="lastinmate">
+      <object class="java.util.Date">
+       <long>1044050400000</long>
+      </object>
+     </void>
+     <void property="name">
+      <string>Steve</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

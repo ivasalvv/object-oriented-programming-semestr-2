@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.5" class="java.beans.XMLDecoder">
+ <object class="ua.khpi.oop.saltykov10.CustomLinkedList">
+  <void property="head">
+   <object class="ua.khpi.oop.saltykov10.Node">
+    <void property="data">
+     <object class="ua.khpi.oop.saltykov10.Citizen">
+      <void property="birthDate">
+       <object class="java.util.Date">
+        <long>910648800000</long>
+       </object>
+      </void>
+      <void property="lastFree">
+       <object class="java.util.Date">
+        <long>881704800000</long>
+       </object>
+      </void>
+      <void property="lastinmate">
+       <object class="java.util.Date">
+        <long>1228860000000</long>
+       </object>
+      </void>
+      <void property="name">
+       <string>Bob</string>
+      </void>
+     </object>
+    </void>
+    <void property="next">
+     <object class="ua.khpi.oop.saltykov10.Node">
+      <void property="data">
+       <object class="ua.khpi.oop.saltykov10.Citizen">
+        <void property="birthDate">
+         <object class="java.util.Date">
+          <long>1050094800000</long>
+         </object>
+        </void>
+        <void property="lastFree">
+         <object class="java.util.Date">
+          <long>888184800000</long>
+         </object>
+        </void>
+        <void property="lastinmate">
+         <object class="java.util.Date">
+          <long>1105480800000</long>
+         </object>
+        </void>
+        <void property="name">
+         <string>Sam</string>
+        </void>
+       </object>
+      </void>
+      <void property="next">
+       <object class="ua.khpi.oop.saltykov10.Node">
+        <void property="data">
+         <object class="ua.khpi.oop.saltykov10.Citizen">
+          <void property="birthDate">
+           <object class="java.util.Date">
+            <long>910648800000</long>
+           </object>
+          </void>
+          <void property="lastFree">
+           <object class="java.util.Date">
+            <long>1668031200000</long>
+           </object>
+          </void>
+          <void property="lastinmate">
+           <object class="java.util.Date">
+            <long>1573336800000</long>
+           </object>
+          </void>
+          <void property="name">
+           <string>Alex</string>
+          </void>
+         </object>
+        </void>
+        <void property="next">
+         <object class="ua.khpi.oop.saltykov10.Node">
+          <void property="data">
+           <object class="ua.khpi.oop.saltykov10.Citizen">
+            <void property="birthDate">
+             <object class="java.util.Date">
+              <long>616017600000</long>
+             </object>
+            </void>
+            <void property="lastFree">
+             <object class="java.util.Date">
+              <long>1328997600000</long>
+             </object>
+            </void>
+            <void property="lastinmate">
+             <object class="java.util.Date">
+              <long>1013292000000</long>
+             </object>
+            </void>
+            <void property="name">
+             <string>Andre</string>
+            </void>
+           </object>
+          </void>
+         </object>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
